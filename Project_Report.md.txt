@@ -1,0 +1,35 @@
+# Smart Posture System
+
+## Objective
+
+To detect the sitting posture of a person using computer vision.
+
+## Problem Statement
+
+Many students and office workers develop neck and back pain because of poor posture.
+
+## Proposed Solution
+
+The Smart Posture System uses a webcam and MediaPipe Pose to detect body landmarks and monitor posture in real time.
+
+## Software Requirements
+
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+
+## Applications
+
+- Offices
+- Students
+- Online classes
+- Work from home
+- Healthcare
+
+## Future Improvements
+
+- Voice alert system
+- Email notification
+- Mobile application
+- AI posture scoring
